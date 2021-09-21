@@ -12,7 +12,9 @@ My blogs:https://nsravanthi.blogspot.com/
 
 Connect with Me:
  https://www.hackerrank.com/sravanthinuthan1
+ 
  https://www.linkedin.com/in/sravanthi-nuthanapati-304a7a1b1/
+ 
  https://www.instagram.com/n__sravanthi/
 
  
