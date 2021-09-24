@@ -4,7 +4,7 @@
 I am sathyabama university CSE student chennai
 
 🛠 Languages and Tools:                                                                             
-C, C++,  Python,  MySQL,  HTML,  CSS
+C, C++,  Python,  MySQL,  HTML,  CSS,
 javascript,   Visual Studio Code,  Git
 GitHub & Linux
 
