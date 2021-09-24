@@ -10,6 +10,8 @@ javascript,   Visual Studio Code,  Git
 GitHub & Linux
 
 currently I am learing web developmwnt and basics of machine learning
+
+
 My blogs:https://nsravanthi.blogspot.com/
 
 Connect with Me:
