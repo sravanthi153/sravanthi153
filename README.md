@@ -1,5 +1,4 @@
-### Hi  👋
-
+### Hi I'm Sravanthi  👋 💻👩🏻‍💻                                                                                                                                               
 
    
 I am sathyabama university CSE student chennai
@@ -9,8 +8,7 @@ C, C++,  Python,  MySQL,  HTML,  CSS
 javascript,   Visual Studio Code,  Git
 GitHub & Linux
 
-currently I am learing web developmwnt and basics of machine learning
-
+currently I am learing web developmwnt and basics of machine learning                                 
 
 My blogs:https://nsravanthi.blogspot.com/
 
@@ -21,7 +19,7 @@ Connect with Me:
  
  https://www.instagram.com/n__sravanthi/
 
-- 🌱 I’m currently learning python,ML basics,web development
+- 🌱 I’m currently learning python,ML basics,web development                            ![wallpapertip_technology-wallpaper_1088409](https://user-images.githubusercontent.com/73333232/134623413-76341641-4133-440d-8f0a-613e2ee3ebef.jpg)
 
 <!--
 **sravanthi153/sravanthi153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
