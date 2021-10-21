@@ -7,20 +7,20 @@ I am sathyabama university CSE student chennai
 C, C++,  Python,  MySQL,  HTML,  CSS,
 javascript,   Visual Studio Code,  Git
 GitHub & Linux
-
 currently I am learing web developmwnt and basics of machine learning                                 
 
-My blogs:https://nsravanthi.blogspot.com/
+➡️ My blogs:https://nsravanthi.blogspot.com/
 
-Connect with Me:
- https://www.hackerrank.com/sravanthinuthan1
+ Connect with Me:
+    https://www.hackerrank.com/sravanthinuthan1
  
- https://www.linkedin.com/in/sravanthi-nuthanapati-304a7a1b1/
+   https://www.linkedin.com/in/sravanthi-nuthanapati-304a7a1b1/
  
- https://www.instagram.com/n__sravanthi/
+   https://www.instagram.com/n__sravanthi/
  
  
- I have successfully completed my #30daysofgooglecloud Program.
+🎯![MakeGoogleYourFriendUnderstandHowGoogleWorksGIF](https://user-images.githubusercontent.com/73333232/138247841-7bd4eff6-741a-4027-9810-9764b480fcec.gif)
+ I have successfully completed my #30daysofgooglecloud Program.   
 The program consists of two tracks comprising of 11 quests, each having several hands-on labs to complete.
 Track 1: Cloud Engineering Track ✔
 Track 2: Data Science & Machine Learning Track✔
