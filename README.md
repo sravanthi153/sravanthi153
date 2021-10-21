@@ -18,12 +18,13 @@ currently I am learing web developmwnt and basics of machine learning
  
    https://www.instagram.com/n__sravanthi/
  
+  I have successfully completed my #30daysofgooglecloud Program.   
+  
+🎯![MakeGoogleYourFriendUnderstandHowGoogleWorksGIF](https://user-images.githubusercontent.com/73333232/138247841-7bd4eff6-741a-4027-9810-9764b480fcec.gif) 
  
-🎯![MakeGoogleYourFriendUnderstandHowGoogleWorksGIF](https://user-images.githubusercontent.com/73333232/138247841-7bd4eff6-741a-4027-9810-9764b480fcec.gif)
- I have successfully completed my #30daysofgooglecloud Program.   
-The program consists of two tracks comprising of 11 quests, each having several hands-on labs to complete.
+ The program consists of two tracks comprising of 11 quests, each having several hands-on labs to complete.         
 Track 1: Cloud Engineering Track ✔
-Track 2: Data Science & Machine Learning Track✔
+Track 2: Data Science & Machine Learning Track✔      
 See My Badges: https://www.qwiklabs.com/public_profiles/be0cfc7f-48f7-466a-9072-97e86c257174
 
 - 🌱 I’m currently learning python,ML basics,web development                            ![wallpapertip_technology-wallpaper_1088409](https://user-images.githubusercontent.com/73333232/134623413-76341641-4133-440d-8f0a-613e2ee3ebef.jpg)
