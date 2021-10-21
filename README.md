@@ -18,6 +18,13 @@ Connect with Me:
  https://www.linkedin.com/in/sravanthi-nuthanapati-304a7a1b1/
  
  https://www.instagram.com/n__sravanthi/
+ 
+ 
+ I have successfully completed my #30daysofgooglecloud Program.
+The program consists of two tracks comprising of 11 quests, each having several hands-on labs to complete.
+Track 1: Cloud Engineering Track ✔
+Track 2: Data Science & Machine Learning Track✔
+See My Badges: https://www.qwiklabs.com/public_profiles/be0cfc7f-48f7-466a-9072-97e86c257174
 
 - 🌱 I’m currently learning python,ML basics,web development                            ![wallpapertip_technology-wallpaper_1088409](https://user-images.githubusercontent.com/73333232/134623413-76341641-4133-440d-8f0a-613e2ee3ebef.jpg)
 
