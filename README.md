@@ -27,7 +27,7 @@ Track 1: Cloud Engineering Track ✔
 Track 2: Data Science & Machine Learning Track✔      
 See My Badges: https://www.qwiklabs.com/public_profiles/be0cfc7f-48f7-466a-9072-97e86c257174
 
-- 🌱 I’m currently learning python,ML basics,web development                            ![wallpapertip_technology-wallpaper_1088409](https://user-images.githubusercontent.com/73333232/134623413-76341641-4133-440d-8f0a-613e2ee3ebef.jpg)
+- 🌱 I’m currently learning ML basics,web development                            ![wallpapertip_technology-wallpaper_1088409](https://user-images.githubusercontent.com/73333232/134623413-76341641-4133-440d-8f0a-613e2ee3ebef.jpg)
 
 <!--
 **sravanthi153/sravanthi153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
