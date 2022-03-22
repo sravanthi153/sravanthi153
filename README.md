@@ -7,7 +7,9 @@ I am sathyabama university CSE student chennai
 C, C++,  Python,  MySQL,  HTML,  CSS,
 javascript,   Visual Studio Code,  Git
 GitHub & Linux
-currently I am learing web developmwnt and basics of machine learning                                 
+currently I am learing web developmwnt and basics of machine learning  
+
+ I’m looking for help with learning ML, DL and AI.
 
 ➡️ My blogs:https://nsravanthi.blogspot.com/
 
