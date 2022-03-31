@@ -34,7 +34,7 @@
 
   I have successfully completed my #30daysofgooglecloud Program.   
   
-🎯![MakeGoogleYourFriendUnderstandHowGoogleWorksGIF](![image](https://user-images.githubusercontent.com/73333232/160974855-f7fac949-5c77-49c1-865d-bbda2f6ad174.png)) 
+🎯
  
  The program consists of two tracks comprising of 11 quests, each having several hands-on labs to complete.         
 Track 1: Cloud Engineering Track ✔
