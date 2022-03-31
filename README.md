@@ -3,6 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sravanthi153" alt="sravanthi153" /></a> </p>
 
+
 - 🔭 I’m currently working on **SAP ABAP AND CODING**
 
 - 🌱 I’m currently learning **ML-AI ,SAP, SEO , LINUX**
@@ -33,7 +34,7 @@
 
   I have successfully completed my #30daysofgooglecloud Program.   
   
-🎯![MakeGoogleYourFriendUnderstandHowGoogleWorksGIF](https://user-images.githubusercontent.com/73333232/138247841-7bd4eff6-741a-4027-9810-9764b480fcec.gif) 
+🎯![MakeGoogleYourFriendUnderstandHowGoogleWorksGIF](https://www.nu.nl/mobiel/5517689/google-gaat-smartphonemakers-geld-vragen-play-store.html) 
  
  The program consists of two tracks comprising of 11 quests, each having several hands-on labs to complete.         
 Track 1: Cloud Engineering Track ✔
