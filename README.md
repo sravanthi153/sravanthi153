@@ -4,15 +4,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sravanthi153" alt="sravanthi153" /></a> </p>
 
 
-- 🔭 I’m currently working on **SAP ABAP AND CODING**
+- 🔭 I’m currently working on **DSA AND CODING**
 
-- 🌱 I’m currently learning **ML-AI ,SAP, SEO , LINUX**
+- 🌱 I’m currently learning **ML-AI , SEO , LINUX**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sravanthi153](https://github.com/sravanthi153)
 
 - 📝 I regularly write articles on [https://nsravanthi.blogspot.com/](https://nsravanthi.blogspot.com/)
 
-- 💬 Ask me about **C , GITHUB , BLOGS**
+- 💬 Ask me about **C , GITHUB , BLOGS,SAP ABAP**
 
 - 📫 How to reach me **sravanthinuthanapati57@gmail.com**
 
