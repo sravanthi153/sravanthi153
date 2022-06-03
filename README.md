@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sravanthi153" alt="sravanthi153" /></a> </p>
 
 
-- 🔭 I’m currently working on **DSA AND CODING**
+- 🔭 focus on **DSA AND CODING**
 
 - 🌱 I’m currently learning **ML-AI , SEO , LINUX**
 
@@ -12,9 +12,10 @@
 
 - 📝 I regularly write articles on [https://nsravanthi.blogspot.com/](https://nsravanthi.blogspot.com/)
 
-- 💬 Ask me about **C , GITHUB , BLOGS,SAP ABAP**
+- 💬 Ask me about **C , GITHUB , BLOGS**
 
 - 📫 How to reach me **sravanthinuthanapati57@gmail.com**
+-Completed ABAP SAP , 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
